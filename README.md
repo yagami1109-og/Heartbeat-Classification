@@ -12,7 +12,7 @@ The dataset used in this project consists of heartbeat audio recordings categori
 
 These audio files are in `.wav` format and vary in duration and signal quality.
 
-> Dataset Source:Included in description.
+> Dataset Source: (https://www.kaggle.com/datasets/kinguistics/heartbeat-sounds?resource=download)
 
 ---
 
